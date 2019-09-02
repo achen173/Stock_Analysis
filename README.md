@@ -1,4 +1,4 @@
-# Stock_Analysis
+# Stock_Analysis (IN-PROGESS)
 
 Provide analysis for the top S&P 500 stocks
 
