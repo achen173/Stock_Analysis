@@ -8,12 +8,12 @@ import pandas_datareader.data as web
 style.use('ggplot')
 
 df = pd.read_csv('tsla.csv', parse_dates=True, index_col=0)
-# df['100ma'] = df['Adj Close'].rolling(window=100, min_periods=0).mean()# moving average
+df['100ma'] = df['Adj Close'].rolling(window=100, min_periods=0).mean()# moving average
 df_ohlc = df['Adj Close'].resample('10D').ohlc()    #ohlc average of ever 10 days of data
 df_volume = df['Volume'].resample('10D').sum()
 df_ohlc.reset_index(inplace=True)
 df_ohlc['Date'] = df_ohlc['Date'].map(mdates.date2num)
-print(df_ohlc.head())
+print(df)
 #df[['Adj Close','100ma']].plot()
 #print(df_ohlc.values[0])
 #print(df_ohlc.head())
@@ -38,19 +38,3 @@ df = pd.read_csv('tsla.csv', parse_dates=True, index_col=0)
 df['100ma'] = df['Adj Close'].rolling(window=100).mean()# moving average
 print(df.head())
 '''
-
-
-
-
-
-return result;
-    print(num)
-    print(num+8192)
-    lowSevenBits = num & 0x007F;
-    print(lowSevenBits)
-    print(hex(lowSevenBits))
-    highSevenBits = num & 0x3F80
-    print(hex(highSevenBits))
-    composed = lowSevenBits + (highSevenBits << 1);
-    print(composed)
-    #return String.format("%04X", composed)
