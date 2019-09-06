@@ -1,0 +1,4 @@
+WHAT I LEARNED
+* using beautifulsoup to abstract online data in html format (to see the html highlight and Ctrl+U)
+* using matplot for graphing
+* calculating rolling averages of the stock price
