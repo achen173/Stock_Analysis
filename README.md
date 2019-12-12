@@ -2,6 +2,8 @@
 
 Provide analysis for the top S&P 500 stocks
 
+UPDATE in readme.pdf
+
 ## Installation
 
 ## Example Usage
