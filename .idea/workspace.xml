@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f7cc1df-8f53-4afe-9db7-f5a884396ad6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guru98.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guru99.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp500_joined_closes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sp500_joined_closes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp500tickers.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/A.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AAP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ABBV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ABMD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ABT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ACN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ADBE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ADS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AES.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AFL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AGN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AKAM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ALB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ALGN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ALK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ALL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ALLE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ALXN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AMD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/AMG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/APD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ARE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/ATVI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/LNT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_dfs/MMM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsla.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="7f7cc1df-8f53-4afe-9db7-f5a884396ad6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,15 +71,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KeyWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="1241">
               <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
             </state>
           </provider>
@@ -178,9 +142,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="146" />
-    <option name="y" value="28" />
-    <option name="width" value="1372" />
+    <option name="x" value="145" />
+    <option name="y" value="27" />
+    <option name="width" value="1373" />
     <option name="height" value="1035" />
   </component>
   <component name="ProjectView">
@@ -206,7 +170,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;Properties" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../polysci_private" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -406,90 +370,32 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sp5000" />
-    <entry file="file://$PROJECT_DIR$/stock_dfs/ABBV.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock_dfs/AMD.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guru99.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock_dfs/ABC.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_dfs/ABBV.csv" />
+    <entry file="file://$PROJECT_DIR$/stock_dfs/AMD.csv" />
+    <entry file="file://$PROJECT_DIR$/guru99.txt" />
+    <entry file="file://$PROJECT_DIR$/stock_dfs/ABC.csv" />
     <entry file="file://$PROJECT_DIR$/sp500tickers.pickle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Figure_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/guru98.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuatopianTesting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrape_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" selection-start-line="27" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stock_Forumla1.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/guru98.txt" />
+    <entry file="file://$PROJECT_DIR$/QuatopianTesting.py" />
+    <entry file="file://$PROJECT_DIR$/scrape_data.py" />
+    <entry file="file://$PROJECT_DIR$/hello" />
+    <entry file="file://$PROJECT_DIR$/testing.py" />
     <entry file="file://$PROJECT_DIR$/Stock_Indicators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorksCited.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -503,9 +409,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sp500corr.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stock_Forumla1.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/KeyWords.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="1241">
           <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
         </state>
       </provider>
@@ -520,23 +442,6 @@
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp500corr.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorksCited.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
