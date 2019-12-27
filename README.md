@@ -1,19 +1,4 @@
-# Stock_Analysis (IN-PROGESS)
+# Stock_Analysis
 
-Provide analysis for the top S&P 500 stocks
+**My Objective:** Finding correlation between the top 15 largest Holdings in the S&P 500 and building predictive models based on past adjusted close prices to decide whether it is a good stock to invest in. Then using Quantopian to test stock based on moving averages. 
 
-UPDATE in readme.pdf
-
-## Installation
-
-## Example Usage
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## Acknowledgements
-
-https://www.investopedia.com
